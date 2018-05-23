@@ -5,7 +5,7 @@ disable toàn bộ</br>
 Hàm `main` ta thấy lỗi ở đây là stack overflow</br>
 ![image](https://user-images.githubusercontent.com/23306492/40378321-6b083c36-5e1d-11e8-8719-0709df31c667.png)
 </br>
-Với bài này ta cần ghi đè shellcode và jump về địa chỉ shellcode</br>
+Với bài này ta cần ghi shellcode và jump về địa chỉ shellcode</br>
 Trước tiên ta cần ROP để có thể input vào bss</br>
 ```
 pop_r3_pc = 0x102f0
