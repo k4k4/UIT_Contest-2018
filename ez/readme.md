@@ -27,4 +27,5 @@ payload += shellcode
 r.sendline(payload)
 ```
 [payload](https://github.com/k4k4/UIT_Contest-2018/blob/master/ez/ez.py)</br>
-![image](https://user-images.githubusercontent.com/23306492/40378289-4eece8d0-5e1d-11e8-8cef-2e473f5e03f5.png)
+![image](https://user-images.githubusercontent.com/23306492/40378289-4eece8d0-5e1d-11e8-8cef-2e473f5e03f5.png)</br>
+mọi người có thể tham khảo tại [link](https://github.com/Billy-Ellis/Exploit-Challenges)
