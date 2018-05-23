@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/23306492/40377949-5ffd91d4-5e1c-11e8-9387-96e85cce524d.png)</br>
 disable toàn bộ</br>
 ![image](https://user-images.githubusercontent.com/23306492/40377995-7dfa49a2-5e1c-11e8-9bd7-c8fe8c856715.png)</br>
-Hàm `main` ta thấy lỗi ở đây là stack overflow,   buf =  24 bytes </br>
+Hàm `main` ta thấy lỗi ở đây là stack overflow</br>
 ![image](https://user-images.githubusercontent.com/23306492/40378321-6b083c36-5e1d-11e8-8719-0709df31c667.png)
 </br>
 Với bài này ta cần ghi đè shellcode và jump về địa chỉ shellcode</br>
